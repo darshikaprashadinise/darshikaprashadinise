@@ -76,11 +76,13 @@ An interactive web experience created using HTML, CSS and JavaScript, focusing o
 
 📊 GitHub Activity
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: darshikaprashadini.se@gmail.com
+💼 **LinkedIn:** [Darshika Prashadini](https://www.linkedin.com/in/darshika-prashadini-903017277/)
 
-💼 GitHub: github.com/darshikaprashadinise
+📧 **Email:** darshikaprashadini.se@gmail.com
+
+💻 **GitHub:** [darshikaprashadinise](https://github.com/darshikaprashadinise)
 
 
 ✨ Keep Learning. Keep Building. Keep Improving.
